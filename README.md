@@ -154,4 +154,21 @@ http://dns.arenatv.biz:8080/Y90yDs81CB/zfRAQWXP5n/41663
 http://dns.arenatv.biz:8080/Y90yDs81CB/zfRAQWXP5n/69322
 #EXTINF:-1 tvg-id="" tvg-name="DEP | EL CANAL DEL FUTBOL HD (EC)" tvg-logo="https://cnt-media.boxqos.com/consumer/canals/canal-del-futbol/logo/canal-del-futbol-logo.png" group-title="DEPORTES",DEP | EL CANAL DEL FUTBOL HD (EC)
 http://dns.arenatv.biz:8080/Y90yDs81CB/zfRAQWXP5n/63539
-
+#EXTINF:-1 tvg-id="" tvg-name="DEP | WIN SPORTS FHD (COL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",DEP | WIN SPORTS FHD (COL)
+http://dns.arenatv.biz:8080/Y90yDs81CB/zfRAQWXP5n/17768
+#EXTINF:-1 tvg-id="" tvg-name="DEP | WIN SPORTS HD (COL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",DEP | WIN SPORTS HD (COL)
+http://dns.arenatv.biz:8080/Y90yDs81CB/zfRAQWXP5n/74343
+#EXTINF:-1 tvg-id="" tvg-name="DEP | WIN SPORTS SD (COL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",DEP | WIN SPORTS SD (COL)
+http://dns.arenatv.biz:8080/Y90yDs81CB/zfRAQWXP5n/74344
+#EXTINF:-1 tvg-id="" tvg-name="DEP | WIN SPORTS+ FHD (COL)" tvg-logo="https://i.ibb.co/VgXSG6Z/win.png" group-title="DEPORTES",DEP | WIN SPORTS+ FHD (COL)
+http://dns.arenatv.biz:8080/Y90yDs81CB/zfRAQWXP5n/17769
+#EXTINF:-1 tvg-id="" tvg-name="DEP | WIN SPORTS+ FHD (COL) **" tvg-logo="https://i.ibb.co/VgXSG6Z/win.png" group-title="DEPORTES",DEP | WIN SPORTS+ FHD (COL) **
+http://dns.arenatv.biz:8080/Y90yDs81CB/zfRAQWXP5n/63063
+#EXTINF:-1 tvg-id="" tvg-name="DEP | WIN SPORTS+ FHD (COL) ***" tvg-logo="https://i.ibb.co/VgXSG6Z/win.png" group-title="DEPORTES",DEP | WIN SPORTS+ FHD (COL) ***
+http://dns.arenatv.biz:8080/Y90yDs81CB/zfRAQWXP5n/74359
+#EXTINF:-1 tvg-id="" tvg-name="DEP | WIN SPORTS+ HD (COL)" tvg-logo="https://i.ibb.co/VgXSG6Z/win.png" group-title="DEPORTES",DEP | WIN SPORTS+ HD (COL)
+http://dns.arenatv.biz:8080/Y90yDs81CB/zfRAQWXP5n/63064
+#EXTINF:-1 tvg-id="" tvg-name="DEP | WIN SPORTS+ HD (COL) **" tvg-logo="https://i.ibb.co/VgXSG6Z/win.png" group-title="DEPORTES",DEP | WIN SPORTS+ HD (COL) **
+http://dns.arenatv.biz:8080/Y90yDs81CB/zfRAQWXP5n/74342
+#EXTINF:-1 tvg-id="" tvg-name="DEP | WIN SPORTS+ SD" tvg-logo="https://i.ibb.co/VgXSG6Z/win.png" group-title="DEPORTES",DEP | WIN SPORTS+ SD
+http://dns.arenatv.biz:8080/Y90yDs81CB/zfRAQWXP5n/74119
